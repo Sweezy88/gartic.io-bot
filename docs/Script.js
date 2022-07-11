@@ -112,7 +112,7 @@ inverted button"><i class="github icon"></i>Open Source Code</a></div> </div>
     <div class="item active selected" data-value="1">Chat</div>
     <div class="item" data-value="0">Answer</div>
   </div></div>
-</div><div class="field"><div class="ui labeled input" id="spamtext"><input type="text" value="anonimbiri" placeholder="Spam text" maxlength="99" spellcheck="false" data-ms-editor="true"></div></div><div class="field"><button class="ui primary compact labeled icon button" id="startspam"><i class="play icon"></i> Start Spam</button></div></div><div class="inline fields"><div class="field"><label>Kick:</label><div class="ui labeled input" id="kickplayernick"><input type="text" value="User" placeholder="Username" maxlength="18" spellcheck="false" data-ms-editor="true"></div></div><div class="field"><button class="ui primary button" id="kickpalyer">Kick Player</button></div></div></div></div>
+</div><div class="field"><div class="ui labeled input" id="spamtext"><input type="text" value="User" placeholder="Spam text" maxlength="99" spellcheck="false" data-ms-editor="true"></div></div><div class="field"><button class="ui primary compact labeled icon button" id="startspam"><i class="play icon"></i> Start Spam</button></div></div><div class="inline fields"><div class="field"><label>Kick:</label><div class="ui labeled input" id="kickplayernick"><input type="text" value="User" placeholder="Username" maxlength="18" spellcheck="false" data-ms-editor="true"></div></div><div class="field"><button class="ui primary button" id="kickpalyer">Kick Player</button></div></div></div></div>
 
 <div class="ui basic modal">
   <div class="content">
