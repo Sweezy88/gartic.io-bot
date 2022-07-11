@@ -8,7 +8,7 @@ document.body.innerHTML += `
     <div class="two fields">
 	<div class="field" id="botname">
         <label>Bot Name</label>
-        <div class="ui large labeled input"><input type="text" value="anonimbiri" placeholder="Nickname" maxlength="14" spellcheck="false" data-ms-editor="true"></div>
+        <div class="ui large labeled input"><input type="text" value="User" placeholder="Nickname" maxlength="14" spellcheck="false" data-ms-editor="true"></div>
       </div>
       <div class="field">
         <label>Room Code</label>
